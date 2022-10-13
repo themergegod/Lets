@@ -1,2 +1,1 @@
-# Lets
-#nihar is stupid
+A beginner friendly guide for wev development
