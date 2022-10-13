@@ -1,0 +1,123 @@
+body {
+     height: 100vh;
+     width: 100vw;
+    background-image: linear-gradient( #EFF2F7, #90a1bf);
+    }
+    .top{
+         color: rgba(177, 197, 230, 0.829);
+         line-height: 1.7;
+         font-size: 13px;
+         margin-top: 0;
+         vertical-align: bottom;
+         padding-bottom: 17px;
+         padding-right: 14px;
+         text-align: right;
+    }
+    .head{
+         top: 0;
+         margin-left: auto;
+         margin-right: auto;
+         background-color: #3D599B;
+         width:90%;
+         height: 17vh;
+    }
+    @font-face { font-family: kalvika; src: url('FACEBOLF.OTF'); } 
+
+    .fblogo{
+         padding-top: 72px;
+         padding-left: 17px;
+         font-family: kalvika;
+         font-size:60px; 
+         font-style: normal;
+         color: white;
+    }
+    #top1{
+         background-color: #718bb9;
+         color: #ffffff;
+        padding-inline: 12px;
+
+    }
+    .lmeta{
+          white-space: nowrap;
+         text-align: right;
+         color: #162f6a;
+    }
+    #help{
+         letter-spacing: 1px;
+         width: 50%;
+         white-space: nowrap;
+         padding-top: 24px;
+         line-height: 1.5;
+         padding-left: 7%;
+         font-family: kalvika;
+         font-size:26px; 
+         font-style: normal;
+         color: #1f3e81;
+    }
+    .signup{
+         letter-spacing: 1px;
+     white-space: nowrap;
+     width: 50%;
+     padding-top: 24px;
+     padding-left: 150px;
+     text-align: left;
+     font-family: kalvika;
+     font-weight: lighter;
+     font-size:27px; 
+     font-style: normal;
+     color: #1f3e81;
+     }
+    .free{
+         white-space: nowrap;
+         padding-top: 13px;
+         font-family: kalvika;
+         font-size:20px;
+         color: #1f3e81;
+    }
+    .foot{
+         position: absolute;
+         background-color: white;
+         padding: 0px 0px 0px 0px;
+         min-height: 17%;
+         bottom: 0;
+         left: 0;
+         right: 0;
+         width: 100%;
+    }
+    #foot1{
+         padding-top: 30px;
+          padding-left: 100px;
+    }
+    #foot2{
+         color: #203870;
+          padding-top: 30px;
+    }
+    #globe{
+         white-space: nowrap;
+         padding-left: 8%;
+         padding-top: 1px;
+         height:300px;
+         width:700px;
+    }
+    .data{
+         padding-left: 150px;
+         font-size: 14px;
+         font-weight: 300;
+         padding-top: 10px;
+         line-height: 2;
+        
+    }
+    #sgup{
+          padding-left: 10px;
+          padding-right: 10px;
+          padding-top: 3px;
+          padding-bottom: 3px;
+          background-color: rgb(94, 176, 35);
+          color: white;
+    }
+    #terms{
+         padding-right: 50px;
+         padding-top: 20px;
+         font-size: 13px;
+         line-height: 1.3;
+    }
